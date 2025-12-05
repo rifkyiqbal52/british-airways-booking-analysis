@@ -15,6 +15,8 @@ The goal is to provide actionable recommendations for marketing strategy, revenu
 - GitHub → version control & portfolio showcase
 - Presentation (Google Slide) → business storytelling
 
+  [https://docs.google.com/presentation/d/1XCb8ZJh8NtsvmdhW7eMG_Kt-lxwByouCLVQkq5-uFys/edit?usp=sharing]
+
 ## 🚀 Business Impact
 - Improve marketing efficiency by focusing on high-performing channels and routes.
 - Increase customer loyalty through targeted promotions and bundling.
